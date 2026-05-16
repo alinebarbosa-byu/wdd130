@@ -1,5 +1,28 @@
+nav {
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+nav a {
+  color: #0000ff;
+  padding: 5px;
+  display: block;
+}
+
 main {
   max-width: 840px;
+}
+
+h1 {
+  color: #333333;
+}
+
+main img {
+  width: 150px;
+  height: auto;
+  border: 1px solid #cccccc;
+  padding: 5px;
+  box-shadow: 2px 2px 5px rgb(0 0 0 / 0.1);
 }
 
 aside {
@@ -14,11 +37,6 @@ aside {
 
 aside img {
   width: 200px;
-  height: auto;
-}
-
-main img {
-  width: 150px;
   height: auto;
 }
 

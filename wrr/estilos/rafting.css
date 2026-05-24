@@ -66,13 +66,13 @@ header img {
   height: auto;
 }
 
-/* H1 SOBRE A HERO */
+/* H1 SOBRE A IMAGEM */
 .hero h1 {
   position: absolute;
   top: 20px;
   width: 100%;
-  padding: 16px;
   text-align: center;
+  padding: 16px;
   background-color: var(--cor-destaque1);
   color: white;
   opacity: 0.8;

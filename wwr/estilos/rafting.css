@@ -50,8 +50,25 @@ header img {
 }
 
 /* LINKS REDES SOCIAIS */
-.redes-sociais a {
+.socialmedia a {
   text-decoration: none;
+}
+
+/* ESTILIZAÇÃO COMPLEMENTAR DO RODAPÉ */
+footer {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.socialmedia {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.socialmedia img {
+  width: 32px;
+  height: auto;
 }
 
 /* HERO */
